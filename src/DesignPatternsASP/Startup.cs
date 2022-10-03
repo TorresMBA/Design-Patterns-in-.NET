@@ -1,4 +1,7 @@
-﻿using Tools.Earn;
+﻿using DesignPatterns.Models.Data;
+using DesignPatterns.Repository;
+using Microsoft.EntityFrameworkCore;
+using Tools.Earn;
 
 namespace DesignPatternsASP
 {
@@ -27,6 +30,13 @@ namespace DesignPatternsASP
             {
                 return new LocalEarnFactory(0.20m);
             });
+
+            builder.Services.AddDbContext<DesignPatternsContext>(c =>
+            {
+                c.UseSqlServer(builder.Configuration.GetConnectionString("Connection"));
+            });
+
+            builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
         }
 
         private static void Configure(WebApplication app)

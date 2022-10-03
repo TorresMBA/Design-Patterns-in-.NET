@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
+
+namespace DesignPatterns.Models.Data
+{
+    public partial class DesignPatternsContext : DbContext
+    {
+        public DesignPatternsContext()
+        {
+        }
+
+        public DesignPatternsContext(DbContextOptions<DesignPatternsContext> options)
+            : base(options)
+        {
+        }
+
+        public virtual DbSet<Beer> Beers { get; set; } = null!;
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                //optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS; Database=DesignPatterns; Trusted_Connection=True");
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Beer>(entity =>
+            {
+                entity.ToTable("Beer");
+
+                entity.Property(e => e.Name)
+                    .HasMaxLength(55)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Style)
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+            });
+
+            OnModelCreatingPartial(modelBuilder);
+        }
+
+        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+    }
+}

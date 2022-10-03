@@ -8,13 +8,13 @@ namespace PatronesDisenio.DependencyInjection
 {
     public class DrinkWithBear
     {
-        private Beer _beer;
+        private BeerDI _beer;
 
         private decimal _water;
 
         private decimal _sugar;
 
-        public DrinkWithBear(decimal water, decimal sugar, Beer beer)
+        public DrinkWithBear(decimal water, decimal sugar, BeerDI beer)
         {
             _beer = beer;
             _water = water;

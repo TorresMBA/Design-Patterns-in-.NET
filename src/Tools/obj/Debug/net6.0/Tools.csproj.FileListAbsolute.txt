@@ -34,3 +34,15 @@ D:\Personal\Documentos\Visual Studio 2022\Projects\DesignPatterns\src\Tools\obj\
 D:\Personal\Documentos\Visual Studio 2022\Projects\DesignPatterns\src\Tools\obj\Debug\net6.0\refint\Tools.dll
 D:\Personal\Documentos\Visual Studio 2022\Projects\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.pdb
 D:\Personal\Documentos\Visual Studio 2022\Projects\DesignPatterns\src\Tools\obj\Debug\net6.0\ref\Tools.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\bin\Debug\net6.0\Tools.deps.json
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\bin\Debug\net6.0\Tools.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\bin\Debug\net6.0\Tools.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\refint\Tools.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\Tools.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\Tools\obj\Debug\net6.0\ref\Tools.dll

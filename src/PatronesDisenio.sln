@@ -5,9 +5,13 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatronesDisenio", "PatronesDisenio\PatronesDisenio.csproj", "{6D3ACC67-1353-4B3B-BF95-79EF8B9C5DC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsASP", "DesignPatternsASP\DesignPatternsASP.csproj", "{F23BB311-8323-4442-BAD8-A70FC870A058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsASP", "DesignPatternsASP\DesignPatternsASP.csproj", "{F23BB311-8323-4442-BAD8-A70FC870A058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{FBD784C0-BBFF-4ED1-BF38-DD5327E892BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "Tools\Tools.csproj", "{FBD784C0-BBFF-4ED1-BF38-DD5327E892BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Repository", "DesignPatterns.Repository\DesignPatterns.Repository.csproj", "{CC7B0FA2-5B00-4866-832D-94ADDD3E6F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Models", "DesignPatterns.Models\DesignPatterns.Models.csproj", "{2F9E22D5-1852-47EC-93AE-09F44D3639DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{FBD784C0-BBFF-4ED1-BF38-DD5327E892BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBD784C0-BBFF-4ED1-BF38-DD5327E892BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBD784C0-BBFF-4ED1-BF38-DD5327E892BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7B0FA2-5B00-4866-832D-94ADDD3E6F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7B0FA2-5B00-4866-832D-94ADDD3E6F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7B0FA2-5B00-4866-832D-94ADDD3E6F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7B0FA2-5B00-4866-832D-94ADDD3E6F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9E22D5-1852-47EC-93AE-09F44D3639DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9E22D5-1852-47EC-93AE-09F44D3639DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9E22D5-1852-47EC-93AE-09F44D3639DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9E22D5-1852-47EC-93AE-09F44D3639DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

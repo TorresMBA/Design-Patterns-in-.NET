@@ -1,0 +1,14 @@
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.deps.json
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.runtimeconfig.json
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\bin\Debug\net6.0\DesignPatterns.Models.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.csproj.AssemblyReference.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.AssemblyInfoInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.AssemblyInfo.cs
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.csproj.CoreCompileInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\refint\DesignPatterns.Models.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\DesignPatterns.Models.genruntimeconfig.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Models\obj\Debug\net6.0\ref\DesignPatterns.Models.dll

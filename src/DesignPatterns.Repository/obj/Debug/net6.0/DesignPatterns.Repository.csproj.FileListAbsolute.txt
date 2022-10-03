@@ -1,0 +1,15 @@
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.deps.json
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Repository.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.AssemblyReference.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.AssemblyInfoInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.AssemblyInfo.cs
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.CoreCompileInputs.cache
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\refint\DesignPatterns.Repository.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\ref\DesignPatterns.Repository.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Models.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\bin\Debug\net6.0\DesignPatterns.Models.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatterns.Repository\obj\Debug\net6.0\DesignPatterns.Repository.csproj.CopyComplete

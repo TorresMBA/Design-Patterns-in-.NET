@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PatronesDisenio.DependencyInjection
 {
-    public class Beer
+    public class BeerDI
     {
         private string _name;
 
@@ -20,7 +20,7 @@ namespace PatronesDisenio.DependencyInjection
             }
         }
 
-        public Beer(string name, string brand)
+        public BeerDI(string name, string brand)
         {
             _name = name;
             _brand = brand;
