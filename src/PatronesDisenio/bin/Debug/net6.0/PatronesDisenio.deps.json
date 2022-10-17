@@ -484,6 +484,9 @@
         }
       },
       "Tools/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9"
+        },
         "runtime": {
           "Tools.dll": {}
         }

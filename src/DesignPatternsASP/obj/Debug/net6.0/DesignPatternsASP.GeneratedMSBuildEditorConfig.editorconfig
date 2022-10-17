@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Personal/Documentos/Visual Studio 2022/Projects/PracticaConsola/DesignPatterns/src/DesignPatternsASP/Views/Beer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Personal/Documentos/Visual Studio 2022/Projects/PracticaConsola/DesignPatterns/src/DesignPatternsASP/Views/Beer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Personal/Documentos/Visual Studio 2022/Projects/PracticaConsola/DesignPatterns/src/DesignPatternsASP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

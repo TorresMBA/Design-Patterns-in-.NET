@@ -37,6 +37,8 @@ namespace DesignPatternsASP
             });
 
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
         }
 
         private static void Configure(WebApplication app)

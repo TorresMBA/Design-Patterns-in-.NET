@@ -150,3 +150,5 @@ D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPattern
 D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP\bin\Debug\net6.0\DesignPatterns.Repository.dll
 D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP\bin\Debug\net6.0\DesignPatterns.Models.pdb
 D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP\bin\Debug\net6.0\DesignPatterns.Repository.pdb
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP\bin\Debug\net6.0\Humanizer.dll
+D:\Personal\Documentos\Visual Studio 2022\Projects\PracticaConsola\DesignPatterns\src\DesignPatternsASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

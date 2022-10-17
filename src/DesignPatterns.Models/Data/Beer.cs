@@ -8,5 +8,6 @@ namespace DesignPatterns.Models.Data
         public int BeerId { get; set; }
         public string Name { get; set; } = null!;
         public string Style { get; set; } = null!;
+        public Guid? BrandId { get; set; }
     }
 }
