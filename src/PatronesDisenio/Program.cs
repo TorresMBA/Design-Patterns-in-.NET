@@ -1,4 +1,5 @@
 ﻿using DesignPattern.RepositoryPattern;
+using PatronesDisenio.Builder;
 using PatronesDisenio.DependencyInjection;
 using PatronesDisenio.FactoryMethod;
 using PatronesDisenio.Models;
@@ -7,6 +8,7 @@ using PatronesDisenio.Repository.Models;
 using PatronesDisenio.Strategy;
 using PatronesDisenio.UnitOfWork;
 using System.Collections.Generic;
+using System.Reflection.Metadata;
 
 namespace PatronesDisenio
 {
@@ -39,15 +41,15 @@ namespace PatronesDisenio
             #endregion
 
             #region Uso Entity Framework
-            using (var context = new DesignPatternsContext())
-            {
-                var list = context.Beers.ToList();
+            //using (var context = new DesignPatternsContext())
+            //{
+            //    var list = context.Beers.ToList();
 
-                foreach (var item in list)
-                {
-                    Console.WriteLine(item.Name);
-                }
-            }
+            //    foreach (var item in list)
+            //    {
+            //        Console.WriteLine(item.Name);
+            //    }
+            //}
             #endregion
 
             #region Repository
@@ -82,30 +84,40 @@ namespace PatronesDisenio
             #endregion
 
             #region UnitOfWork
-            using (var context = new DesignPatternsContext())
-            {
-                var unitOfWork = new UnitOfWorkC(context);
+            //using (var context2 = new DesignPatternsContext())
+            //{
+            //    var unitOfWork = new UnitOfWorkC(context2);
 
-                var beers = unitOfWork.Beers;
-                var beer = new Beer() { Name = "Fuller", Style = "Porter" };
+            //    var beers = unitOfWork.Beers;
+            //    var beer = new Beer() { Name = "Fuller", Style = "Porter" };
 
-                beers.Add(beer);
+            //    beers.Add(beer);
 
-                //var brands = unitOfWork.Brands;
-                //var brand = new Brand() { };
+            //    //var brands = unitOfWork.Brands;
+            //    //var brand = new Brand() { };
 
-                //brands.Add(brand);
+            //    //brands.Add(brand);
 
-                unitOfWork.Save();
-            }
+            //    unitOfWork.Save();
+            //}
             #endregion
 
             #region Strategy
-            var context = new Context(new CarStrategy());
-            context.Run();
-            context.Strategy = new MotoStrategy();
-            context.Run();
+            //var context = new Context(new CarStrategy());
+            //context.Run();
+            //context.Strategy = new MotoStrategy();
+            //context.Run();
+            #endregion
 
+            #region Builder
+            var bulder = new PreparedAlcoholicDrinkConcreteBuilder();
+            BarmanDirector barman = new BarmanDirector(bulder);
+
+            barman.PrepareMargarita();
+
+            var prepardo = bulder.GetPreparedDrink();
+
+            Console.WriteLine(prepardo.Result);
             #endregion
         }
     }
